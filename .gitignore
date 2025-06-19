@@ -66,4 +66,4 @@ kaggle/working/ # Output directory used in your main.py
 
 # This file/directory will NOT be tracked by Git (won't be on GitHub)
 my_private_docs.txt
-/documentation_drafts/
+documentation_drafts/
