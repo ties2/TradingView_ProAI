@@ -1,0 +1,69 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.whl
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.coverage
+.tox/
+.nox/
+.pytest_cache/
+
+# Editors
+.vscode/ # VS Code specific files (e.g., workspace settings)
+.idea/   # IntelliJ / PyCharm specific files
+*.swp    # Vim swap files
+
+# OS-specific files
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+
+# Data and Logs
+*.log
+*.sqlite3
+media/
+uploads/
+
+# Model checkpoints and output directories
+*.pth # PyTorch model weights
+*.pt  # PyTorch model weights
+kaggle/working/ # Output directory used in your main.py
+
+# ====================================================================
+# Custom ignored files (documentation)
+# ====================================================================
+
+# This file/directory will NOT be tracked by Git (won't be on GitHub)
+my_private_docs.txt
+/documentation_drafts/
